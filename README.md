@@ -4,12 +4,13 @@
 
 (If you're using a version of tacz older than 1.14, some folders are in .minecraft/config/tacz)
 
-1.  Install the latest version of [**Forge**](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
-2.  Install [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) version 0.5.1.f or above.
-3.  Install [**Timeless and Classics Zero**](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero).
-4.  Start Minecarft so Timeless and Classics Zero can create its directories.
-5.  Install [**Create Amorer**](https://www.curseforge.com/minecraft/customization/tacz-create-armorer-koei) and place in .minecraft/tacz
-6.  Install this mod into the mod folder.
+1.  Install the latest version of [**NeoForge**](https://neoforged.net/)
+2.  Install [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) version 6.0.10 or above.
+3.  Install [**[UNOFFICIAL] TaCZ NeoForge Port**](https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1).
+4.  Install [**TaCZ Pack Upgrader**](https://www.curseforge.com/minecraft/mc-mods/tacz-pack-upgrader)
+5.  Start Minecarft so Timeless and Classics Zero can create its directories.
+6.  Install [**Create Amorer**](https://www.curseforge.com/minecraft/customization/tacz-create-armorer-koei) and place in .minecraft/tacz
+7.  Install this mod into the mod folder.
 
  
 
