@@ -3,16 +3,16 @@ package net.myr.createimmersivetacz.item;
 import net.minecraft.world.item.BucketItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;
-import net.neoforged.bus.api;
-import net.neoforged.neoforge.registries.DeferredRegister;
-import net.neoforged.neoforge.registries.NeoForgeRegistries;
-//import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
 import net.myr.createimmersivetacz.CreateImmersiveTacz;
 import net.myr.createimmersivetacz.fluid.ModFluids;
 
 public class ModItems {
 
-    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(BuiltInRegistries.ITEM, CreateImmersiveTacz.MOD_ID);
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, CreateImmersiveTacz.MOD_ID);
 
     public static final RegistryObject<Item> GUN_BARREL = ITEMS.register("gunbarrel", () -> new Item(new Item.Properties()));
 
