@@ -2,12 +2,12 @@ package net.myr.createimmersivetacz.fluid;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvents;
-import net.minecraftforge.common.SoundAction;
-import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fluids.FluidType;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
+import net.neoforged.neoforge.common.SoundAction;
+import net.neoforged.bus.api;
+import net.neoforge.fluids.FluidType;
+import net.neoforged.neoforge.registries.DeferredRegister;
+import net.neoforged.neoforge.registries.NeoForgeRegistries;
+//import net.minecraftforge.registries.RegistryObject;
 import net.myr.createimmersivetacz.CreateImmersiveTacz;
 import org.joml.Vector3f;
 
